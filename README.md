@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+  <img src="https://github.com/avadhrakholiya114/avadhrakholiya114/raw/main/linked.png" align="center" style="width: 100%" />
+</div>
+
   
 
 ### <div align="center">Hi 👋, I'm Avadh Rakholiya
